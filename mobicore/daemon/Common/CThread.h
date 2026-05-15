@@ -37,8 +37,6 @@
 #include "CSemaphore.h"
 #include "pthread.h"
 
-using namespace std;
-
 
 class CThread
 {
